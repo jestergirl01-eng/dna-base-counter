@@ -1,15 +1,18 @@
-# DNA Base Counter
+# DNA Sequence Analyzer
 
-## About
-A beginner bioinformatics project written in Python.
+## Description
+A beginner bioinformatics project written in Python that analyses DNA sequences.
 
-## What it does
-- Takes a DNA sequence
-- Counts A, T, G and C bases
-- Outputs the number of each nucleotide
+## Features
+- Accepts user DNA input
+- Converts sequences to uppercase
+- Checks for invalid bases
+- Counts A, T, G and C nucleotides
+- Calculates GC content
 
 ## Skills practised
-- Python basics
-- Strings
-- Counting
-- Data analysis
+- Python variables
+- Loops
+- Conditional statements
+- String manipulation
+- Basic biological data analysis
