@@ -6,6 +6,7 @@ valid_bases = ["A", "T", "G", "C"]
 
 for base in dna:
     if base not in valid_bases:
+        print(base, "is not a valid DNA base.")
         valid = False
         break
 
